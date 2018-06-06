@@ -28,7 +28,7 @@ googleAnalytics = ""
 # Default language to use (if you setup multilingual support)
 DefaultContentLanguage = "pt"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 
 # Get last modified date for content from Git?
 enableGitInfo = false
