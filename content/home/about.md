@@ -17,15 +17,10 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  Curso = "Doutorando em Engenharia Industrial"
-  Instituição = "UFBA"
+  Curso = "Doutorando em Engenharia Industrial (PEI - UFBA)"
   year = 2018 -
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
+  
+  
 +++
 
 # Biography

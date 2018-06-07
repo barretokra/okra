@@ -272,5 +272,5 @@ enableGitInfo = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.pt]
-  languageCode = "pt-BR"
+[Languages.en]
+  languageCode = "en-us"
